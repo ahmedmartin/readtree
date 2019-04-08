@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/new_post"
+        android:title="اضافه كتاب جديد"
+        android:icon="@drawable/add"/>
+
+    <item android:id="@+id/history"
+        android:title="كتبى"
+        android:icon="@drawable/history"/>
+
+    <item android:id="@+id/saving"
+        android:title="محفوظات"
+        android:icon="@drawable/saving"/>
+
+    <item android:id="@+id/person_info"
+        android:title="معلوماتك الشخصيه"
+        android:icon="@drawable/person_info"/>
+
+    <item android:id="@+id/sign_in"
+        android:title="تسجيل دخول"
+        android:icon="@drawable/sign_in"/>
+
+    <item android:id="@+id/log_out"
+        android:title="خروج"
+        android:icon="@drawable/log_out"/>
+
+    <item android:id="@+id/about_us"
+        android:title="نبذه عن البرنامج"
+        android:icon="@drawable/about_us"/>
+
+
+</menu>
